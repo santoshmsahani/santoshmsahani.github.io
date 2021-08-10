@@ -1,3 +1,3 @@
 # santoshmsahani.github.io
 
-Porfolio Website build with Github Pages.
+Portfolio Website build with Github Pages.
