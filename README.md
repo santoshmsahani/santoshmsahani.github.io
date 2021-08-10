@@ -1,3 +1,3 @@
 # santoshmsahani.github.io
 
-Github Pages help us to create website. This is Portfolio Website build using Github Pages.
+Porfolio Website build with Github Pages.
