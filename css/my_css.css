@@ -147,6 +147,18 @@ body {
     color: #1DA1F2;
 }
 
+.social-icons a.linkedin i {
+    color: #0e76a8;
+}
+
+.social-icons a.github i {
+    color: #333;
+}
+
+.social-icons a.google i {
+    color: #4285F4;
+}
+
 .social-icons a.insta i {
     color: #E1306C;
 }
